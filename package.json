@@ -1,0 +1,22 @@
+{
+  "name": "nobloqueante.js",
+  "version": "1.0.0",
+  "description": "Primera practica del modo no bloqueante en nodejs",
+  "main": "nobloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JadirMiramontes/NoBloqueante.git"
+  },
+  "keywords": [
+    "nobloqueante"
+  ],
+  "author": "Jadir Omar Miramontes Armendariz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JadirMiramontes/NoBloqueante/issues"
+  },
+  "homepage": "https://github.com/JadirMiramontes/NoBloqueante#readme"
+}
